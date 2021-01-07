@@ -6,4 +6,4 @@
 - 🧰 Most experienced building Kotlin and Java☕ applications and React ⚛️ frontends, but i am always expanding my horizons!
 
 - Stats:  
-![My github-stats](https://github-readme-stats.codestackr.vercel.app/api?username=jonasjore&show_icons=true&hide_border=true&theme=synthwave)
+![My github-stats](https://github-readme-stats.codestackr.vercel.app/api?username=jonasjore&show_icons=true&hide_border=true&theme=tokyonight)
