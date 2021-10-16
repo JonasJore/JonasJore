@@ -1,4 +1,4 @@
-### Hi there! My name is Jonas👋
+### Hello! My name is Jonas👋
 
 - 🔭 I'm currently working as a Fullstack developer in Oslo, Norway
 - 🌱 Currently i'm teaching myself Rust in my sparetime, though i still need to find a way to use it🤔
