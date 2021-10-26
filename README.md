@@ -1,6 +1,6 @@
 ### Hello! My name is Jonas👋
 
 - 🔭 I'm currently working as a Fullstack developer in Oslo, Norway
-- 🌱 Currently i'm teaching myself Rust in my sparetime, though i still need to find a way to use it🤔
+- 🌱 Currently i'm teaching myself pure functional programming in Haskell on my sparetime, though i still need to find a way to use it🤔
 - 📫 You can reach out to me through twitter if i dont reply here promptly at @JonasJore
 - 🧰 Most experienced building Kotlin and Java☕ applications and React ⚛️ frontends, but i am always expanding my horizons!
