@@ -9,4 +9,4 @@
 * Email: `jonas.jore <at> gmail.com`
 * Discord: `WorshipTheSofa#1577`
 
-- Mostly working with side-projects in Android🤖 or Rust🦀 on my freetime when coding currently.
+- Mostly working with side-projects in Rust🦀 on my freetime when coding currently.
