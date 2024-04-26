@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working as an IT-consultant in Oslo, Norway
 - 🧰 Most experienced building Kotlin and Java☕ applications and React ⚛️ frontends, but i am always expanding my horizons!
+- 🛠️ Also i build Apps 📱
 
 #### Contact Information:
 * Email: `jonas.jore <at> gmail.com`
