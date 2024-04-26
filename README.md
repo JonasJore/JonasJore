@@ -1,8 +1,8 @@
 ### Hello! My name is Jonas👋
 
 - 🔭 I'm currently working as an IT-consultant in Oslo, Norway
-- 🧰 Most experienced building Kotlin and Java☕ applications and React ⚛️ frontends, but i am always expanding my horizons!
-- 🛠️ Also i build Apps 📱
+- 🧰 I have extensive experience in building Kotlin and Java applications ☕, as well as React ⚛️ frontends, and I'm continuously seeking new opportunities to broaden my skill set.
+- 🛠️ Additionally, I specialize in app development! 📱
 
 #### Contact Information:
 * Email: `jonas.jore <at> gmail.com`
