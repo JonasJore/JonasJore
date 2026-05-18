@@ -20,14 +20,12 @@ always: looking to broaden my skill set
 ### 📊 A few stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonasJore&show_icons=true&hide_border=true&theme=transparent&icon_color=586069&title_color=24292e&text_color=586069&hide=contribs" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasJore&layout=compact&hide_border=true&theme=transparent&title_color=24292e&text_color=586069&langs_count=6" />
+  <img height="170" src="https://github-readme-stats-iota-rust.vercel.app/api?username=JonasJore&show_icons=true&hide_border=true&bg_color=00000000&icon_color=8b949e&title_color=8b949e&text_color=8b949e&hide=contribs" />
+  <img height="170" src="https://github-readme-stats-iota-rust.vercel.app/api/top-langs/?username=JonasJore&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&langs_count=6" />
 </p>
-
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JonasJore&hide_border=true&background=FFFFFF00&stroke=24292e&ring=24292e&fire=24292e&currStreakLabel=24292e&sideLabels=586069&currStreakNum=24292e&sideNums=24292e&dates=586069" />
+  <img height="170" src="https://streak-stats.demolab.com?user=JonasJore&hide_border=true&background=FFFFFF00&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasJore&bg_color=00000000&color=24292e&line=24292e&point=24292e&area=true&area_color=24292e&hide_border=true&custom_title=Contribution%20activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasJore&bg_color=00000000&color=8b949e&line=8b949e&point=8b949e&area=true&area_color=8b949e&hide_border=true&custom_title=Contribution%20activity" />
 </p>
