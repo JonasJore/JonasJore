@@ -20,9 +20,13 @@ always: looking to broaden my skill set
 ### 📊 A few stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-iota-rust.vercel.app/api?username=JonasJore&show_icons=true&hide_border=true&bg_color=00000000&icon_color=8b949e&title_color=8b949e&text_color=8b949e&hide=contribs" />
-  <img height="170" src="https://github-readme-stats-iota-rust.vercel.app/api/top-langs/?username=JonasJore&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&langs_count=6" />
+  <img src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=JonasJore&hide_border=true&background=FFFFFF00&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
 </p>
