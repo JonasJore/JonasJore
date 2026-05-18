@@ -1,11 +1,35 @@
-### Hello! My name is Jonas👋
+### Hi, I'm Jonas 👋
 
-- 🔭 I'm currently working as an IT-consultant in Oslo, Norway
-- 🧰 I have extensive experience in building Kotlin and Java applications ☕, as well as React ⚛️ frontends, and I'm continuously seeking new opportunities to broaden my skill set.
-- 🛠️ Additionally, I specialize in app development! 📱
+IT consultant based in Kongsberg, Norway.
 
-#### Contact Information:
-* Email: `jonas.jore <at> gmail.com`
-* Discord: `WorshipTheSofa#1577`
+```yaml
+current_focus: backend development
+day_job: building backend systems (Kotlin / Java ☕)
+also_fluent_in: React ⚛️ frontends, mobile app development 📱
+weekends: tinkering with Rust 🦀
+always: looking to broaden my skill set
+```
 
-- Mostly working with side-projects in Rust🦀 on my freetime when coding currently.
+### 📫 Get in touch
+
+- **Email:** `jonas.jore <at> gmail.com`
+- **Discord:** `WorshipTheSofa#1577`
+
+---
+
+### 📊 A few stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=JonasJore&hide_border=true&background=FFFFFF00&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasJore&bg_color=00000000&color=8b949e&line=8b949e&point=8b949e&area=true&area_color=8b949e&hide_border=true&custom_title=Contribution%20activity" />
+</p>
