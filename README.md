@@ -7,7 +7,7 @@ current_focus: backend development
 day_job: building backend systems (Kotlin / Java ☕)
 also_fluent_in: React ⚛️ frontends, mobile app development 📱
 weekends: tinkering with Rust 🦀
-always: looking to broaden the skill set
+always: looking to broaden my skill set
 ```
 
 ### 📫 Get in touch
