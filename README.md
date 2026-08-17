@@ -28,8 +28,5 @@ always: looking to broaden my skill set
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JonasJore&hide_border=true&background=FFFFFF00&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasJore&bg_color=00000000&color=8b949e&line=8b949e&point=8b949e&area=true&area_color=8b949e&hide_border=true&custom_title=Contribution%20activity" />
 </p>
