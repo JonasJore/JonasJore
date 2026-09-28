@@ -26,7 +26,3 @@ always: looking to broaden my skill set
   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasJore&bg_color=00000000&color=8b949e&line=8b949e&point=8b949e&area=true&area_color=8b949e&hide_border=true&custom_title=Contribution%20activity" />
-</p>
